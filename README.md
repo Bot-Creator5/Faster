@@ -1,0 +1,2 @@
+# Faster
+Bot Musique discord
